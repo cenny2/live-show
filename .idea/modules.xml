@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/live-show.iml" filepath="$PROJECT_DIR$/live-show.iml" />
+      <module fileurl="file://$PROJECT_DIR$/live-user-interface/live-user-interface.iml" filepath="$PROJECT_DIR$/live-user-interface/live-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/live-user-provider/live-user-provider.iml" filepath="$PROJECT_DIR$/live-user-provider/live-user-provider.iml" />
+    </modules>
+  </component>
+</project>
